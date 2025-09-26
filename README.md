@@ -71,10 +71,8 @@ Random Forest Regressor (RF)
 
 Gradient Boosting Regressor (GBR)
 
-Support Vector Regression (SVR)
-
 Evaluation & Model Selection
-
+-
 Models were evaluated using R² score on the test dataset.
 
 Linear Regression was selected for deployment because:
